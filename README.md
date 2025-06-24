@@ -1,5 +1,6 @@
 # TITLE
-心電図(ECG)と呼吸(BR)のRRI計算
+心電図(ECG)と呼吸(BR)データからRRIを計算する
+RRI calculation
 
 ## DATE
 Tue Dec 10 2024 15:43:58 GMT+0900 (日本標準時)  
