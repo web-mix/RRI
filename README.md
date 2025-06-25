@@ -1,7 +1,7 @@
 # 心電図(ECG)と呼吸(BR)データからRRIを計算する(RRI calculation)
 
 <p align="center">
-  <img src="Figure_1.png" width="600">
+  <img src="Figure_1.png" width="1000">
 </p>
 
 ## DATE
